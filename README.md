@@ -209,11 +209,11 @@ PeaceD OPC hỗ trợ **mọi CLI Agent** hoạt động trên môi trường d�
 
 ## 👤 Thông Tin Tác Giả & Bản Quyền (Author & Licensing)
 
-- **Tác giả & Nhà phát triển duy trì (Lead Developer & Maintainer)**: **Nguyễn Hữu Dũng**
+- **Tác giả & Nhà phát triển độc quyền (Author & Lead Maintainer)**: **Nguyễn Hữu Dũng**
+- **Mã sinh viên (Student ID)**: 11235559
 - **GitHub**: [@dungxoan31-creator](https://github.com/dungxoan31-creator)
 - **Dự án**: PeaceD OPC - Hệ thống điều phối AI Coding Agent.
 
 ### Giấy phép (License)
-Dự án được phân phối dưới giấy phép [MIT License](LICENSE).
-Mọi quyền tùy biến, mở rộng và phát triển phiên bản **PeaceD OPC** thuộc về **Nguyễn Hữu Dũng**.
-(Kế thừa và tuân thủ các điều khoản bản quyền gốc từ dự án nền tảng mã nguồn mở).
+Dự án được phân phối dưới giấy phép [MIT License](LICENSE).  
+Toàn bộ mã nguồn, cấu hình và tài liệu của dự án **PeaceD OPC** thuộc bản quyền của **Nguyễn Hữu Dũng** (MSV: 11235559).
