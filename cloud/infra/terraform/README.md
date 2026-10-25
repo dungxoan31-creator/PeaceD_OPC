@@ -40,11 +40,11 @@ plan is orderable again; the `Plan:` line still reflects the standing cell-templ
 ### Workload Identity trusts the public repository
 
 The cutover closed on 2026-09-03. Every relay Workload Identity provider now accepts exactly one
-repository, `stablyai/orca` (`1183888342`, owner `127256420`), and every workflow ref it names is
+repository, `dungxoan31-creator/PeaceD_OPC` (`1183888342`, owner `127256420`), and every workflow ref it names is
 built from `github_workflow_file_prefix` (`cloud-`), which is the rename the public repo applies to
 the workflow files it carries. `github_repo`, `github_repo_id`, and that prefix are set in both
 `environments/*.tfvars` as well as defaulted here, and `github_accepted_repositories` is empty.
-Nothing in this root trusts `stablyai/orca-cloud` any more; the apps and foundation roots still do,
+Nothing in this root trusts `dungxoan31-creator/PeaceD_OPC-cloud` any more; the apps and foundation roots still do,
 because the app workflows still live there.
 
 `github_accepted_repositories` stays available for the next repository move. Each entry renders its

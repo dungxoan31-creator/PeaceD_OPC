@@ -347,7 +347,7 @@ the first four characters of a fingerprint are the most that may appear.
 
 The Cloud Run domain mapping is created here, and Google issues and renews the certificate. The
 `onorca.dev` zone is not in this root: it is a Cloudflare zone whose Terraform-managed records
-live in the apps root in `stablyai/orca-cloud`, and whose relay and auth records are managed by
+live in the apps root in `dungxoan31-creator/PeaceD_OPC-cloud`, and whose relay and auth records are managed by
 hand. The push record follows the relay's precedent and was created by hand on 2026-09-04:
 
 ```text

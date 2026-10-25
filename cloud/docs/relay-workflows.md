@@ -4,7 +4,7 @@ The `cloud-*` workflows in `.github/workflows/` are the Relay deploy and
 operate surface. Every one of them is gated on the repository variable
 `ORCA_CLOUD_OPERATIONS_ENABLED == 'true'` and does nothing until the repository
 owner sets it. The app and auth deploy workflows this document once also
-covered stay in the private `stablyai/orca-cloud` repository.
+covered stay in the private `dungxoan31-creator/PeaceD_OPC-cloud` repository.
 
 Set these staging environment variables before running the staging deploy workflow:
 
@@ -297,7 +297,7 @@ Every workflow that mints a Cloud Run revision or applies a relay instance templ
 Cloud SQL instance takes the compare-and-swap lease in `.github/actions/cloud-sql-rollout-lease`
 immediately after `google-github-actions/setup-gcloud`. The per-repository `concurrency` groups
 (`production-cloud-sql-rollout`, `relay-staging-mutation`) only serialize runs inside one repository;
-once the relay workflows live in `stablyai/orca` there are two queues pointed at one instance, and
+once the relay workflows live in `dungxoan31-creator/PeaceD_OPC` there are two queues pointed at one instance, and
 `relay-cloud-sql-connection-budget.mjs` computes `rolloutOverlap` as a `Math.max` that is only sound
 with one rollout in flight. Keep both the groups and the lease.
 

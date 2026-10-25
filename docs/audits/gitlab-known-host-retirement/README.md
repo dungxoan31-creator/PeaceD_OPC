@@ -36,4 +36,4 @@ The runner is portable; that executable path is macOS-specific. Thirty-two focus
 
 This removes small metadata retained across SSH generations. Distinct historical execution identities may still keep one entry each until reset; this change does not impose a new cache cap or alter connection/provider lifetime. One generation's host list remains input-sized.
 
-The demonstrated accumulation requires changing SSH provider generations, so it cannot explain [#19831](https://github.com/stablyai/orca/issues/19831)'s reported all-local session. No affected-host observation ties it to another OOM report. The proof measures reachable result arrays, not RSS or gigabytes of incident memory.
+The demonstrated accumulation requires changing SSH provider generations, so it cannot explain [#19831](https://github.com/dungxoan31-creator/PeaceD_OPC/issues/19831)'s reported all-local session. No affected-host observation ties it to another OOM report. The proof measures reachable result arrays, not RSS or gigabytes of incident memory.

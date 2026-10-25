@@ -2,7 +2,7 @@
 
 A restored pane can already hold a scoped `remote:<environment>@@<handle>` layout binding while `remote.attach()` waits for `terminal.resolvePane`. The transport's `getPtyId()` is still null. An explicit split close therefore passed null to `closeWebRuntimeTerminal`, removed the layout binding, and destroyed only the viewer. The host terminal stayed connected. This attachment/teardown behavior exists in `v1.4.198`.
 
-This is a specific retained host-terminal mechanism. The change is stacked on the local/direct-SSH pending-close fix in [#21001](https://github.com/stablyai/orca/pull/21001) and reuses its current-owner query. It does not prove the incident frequency in [#15210](https://github.com/stablyai/orca/issues/15210), Linux Electron-main growth, or [#19831](https://github.com/stablyai/orca/issues/19831)'s memory slope.
+This is a specific retained host-terminal mechanism. The change is stacked on the local/direct-SSH pending-close fix in [#21001](https://github.com/dungxoan31-creator/PeaceD_OPC/pull/21001) and reuses its current-owner query. It does not prove the incident frequency in [#15210](https://github.com/dungxoan31-creator/PeaceD_OPC/issues/15210), Linux Electron-main growth, or [#19831](https://github.com/dungxoan31-creator/PeaceD_OPC/issues/19831)'s memory slope.
 
 ## Scope and authority
 

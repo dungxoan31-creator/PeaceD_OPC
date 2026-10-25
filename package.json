@@ -1,9 +1,9 @@
 {
   "name": "peaced-opc",
   "version": "1.4.198",
-  "description": "PeaceD OPC - Agent Organization & Orchestration Platform",
+  "description": "PeaceD OPC - AI Agent Multi-Stream Orchestration & Governance Platform",
   "homepage": "https://github.com/dungxoan31-creator/PeaceD_OPC",
-  "author": "Nguyễn Hữu Dũng (dungxoan31)",
+  "author": "Nguyễn Hữu Dũng (MSV: 11235559)",
   "repository": {
     "type": "git",
     "url": "https://github.com/dungxoan31-creator/PeaceD_OPC.git"

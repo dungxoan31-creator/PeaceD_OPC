@@ -11,7 +11,7 @@ The correction copies only accepted incomplete tails through the existing
 their existing behavior; the helper leaves strings shorter than 13 code units
 alone. Parser state, live/replay semantics, stack caps, mode flags, and wire
 content are unchanged. These are additional boundaries in
-[#20960](https://github.com/stablyai/orca/pull/20960), alongside the
+[#20960](https://github.com/dungxoan31-creator/PeaceD_OPC/pull/20960), alongside the
 [PTY detector carries](../pty-detector-retention/README.md).
 
 ## Reproduce

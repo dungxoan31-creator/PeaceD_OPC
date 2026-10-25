@@ -4,8 +4,8 @@ A compare-and-swap lease on one Cloud Storage object, used to serialize Cloud SQ
 **connection-budget** rollouts across two repositories.
 
 `concurrency.group: production-cloud-sql-rollout` only serializes runs inside a single repository.
-Once the relay workflows live in `stablyai/orca` and the app workflows stay in
-`stablyai/orca-cloud`, there are two independent queues pointed at one shared Cloud SQL instance.
+Once the relay workflows live in `dungxoan31-creator/PeaceD_OPC` and the app workflows stay in
+`dungxoan31-creator/PeaceD_OPC-cloud`, there are two independent queues pointed at one shared Cloud SQL instance.
 `relay-cloud-sql-connection-budget.mjs` computes `rolloutOverlap` as a `Math.max` over the relay
 director, api, auth and relay-cell candidates, which is only sound when exactly one rollout is in
 flight. This lease is what keeps that assumption true. Keep the per-repo concurrency groups **and**
@@ -136,9 +136,9 @@ runners; only the compare-and-swap algorithm is shared with the fence broker.
 
 ## Duplication
 
-This directory is copied verbatim into `stablyai/orca`. It has no `package.json`, no
+This directory is copied verbatim into `dungxoan31-creator/PeaceD_OPC`. It has no `package.json`, no
 `node_modules`, and imports nothing outside itself — `action-contract.test.mjs` enforces all three.
-Cross-repo consumption via `uses: stablyai/orca/.github/actions/...@<sha>` was rejected: it would
+Cross-repo consumption via `uses: dungxoan31-creator/PeaceD_OPC/.github/actions/...@<sha>` was rejected: it would
 put public-repo code inside private app deploys that hold a production credential, and neither
 repository protects `main` today.
 

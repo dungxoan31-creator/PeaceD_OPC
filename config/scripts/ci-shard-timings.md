@@ -62,7 +62,7 @@ command and exclusions with `ORCA_BALANCE_UNIT_SHARDS=1` and the recorded
 To refresh the baseline, download `log-JOB_ID.txt` files into one directory from
 exactly one eight-shard unit run and one fourteen-shard general E2E run. Use the
 job IDs from the Actions jobs API and fetch each with
-`gh api repos/stablyai/orca/actions/jobs/JOB_ID/logs`. Do not include dedicated
+`gh api repos/dungxoan31-creator/PeaceD_OPC/actions/jobs/JOB_ID/logs`. Do not include dedicated
 lanes or multiple attempts. Then run:
 
 ```sh

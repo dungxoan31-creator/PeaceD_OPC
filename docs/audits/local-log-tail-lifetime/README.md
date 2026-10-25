@@ -4,7 +4,7 @@ Main can receive a log-tail subscription, await path authorization, and finish i
 
 The fix gives each sender one owner using the existing `abortWhenRendererGone` policy: destruction, renderer process loss, or committed document navigation closes its live watches and invalidates pending authorization. Same-document and canceled navigation preserve the owner. For a reused subscription ID, the latest pending request wins. Each pending subscription has an identity token; old completions and old watcher errors cannot replace or close newer subscriptions. Failed authorization preserves an existing installed watch. The last pending/live release removes all owner listeners.
 
-This is a reproduced native-handle and small metadata leak. Watchers do not retain file-content chunks. It does not establish the input frequency or memory scale in [#19768](https://github.com/stablyai/orca/issues/19768) or [#19831](https://github.com/stablyai/orca/issues/19831).
+This is a reproduced native-handle and small metadata leak. Watchers do not retain file-content chunks. It does not establish the input frequency or memory scale in [#19768](https://github.com/dungxoan31-creator/PeaceD_OPC/issues/19768) or [#19831](https://github.com/dungxoan31-creator/PeaceD_OPC/issues/19831).
 
 ## Reproduce
 

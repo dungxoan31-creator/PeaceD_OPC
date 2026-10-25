@@ -58,10 +58,10 @@ its own.
 - orca-cloud #475: auth alerts (refresh 401 > 100/5 min, 429 > 20/5 min, 5xx > 10/5 min, p99 > 10 s). Applied.
 - orca-cloud #476: batched `refresh_tokens` pruner (disabled), auth pool `statement_timeout` 10 s, schema
   DDL on an untimed connection.
-- stablyai/orca #18693: both relay NATs on dynamic port allocation 64..4096 (applied US 21:01Z, Asia 21:05Z);
+- dungxoan31-creator/PeaceD_OPC #18693: both relay NATs on dynamic port allocation 64..4096 (applied US 21:01Z, Asia 21:05Z);
   alerts for Cloud SQL WAL-checkpoint loop, disk > 70 %, NAT `OUT_OF_RESOURCES` drops. Applied.
-- stablyai/orca #18694: desktop learns of a revoked session immediately, panes re-fetch on mount, pairing
+- dungxoan31-creator/PeaceD_OPC #18694: desktop learns of a revoked session immediately, panes re-fetch on mount, pairing
   notice says "Sign in again to use PeaceD OPC Relay".
-- stablyai/orca #18698: phone shows "Desktop signed out — sign in to PeaceD OPC on your desktop to reconnect" via
+- dungxoan31-creator/PeaceD_OPC #18698: phone shows "Desktop signed out — sign in to PeaceD OPC on your desktop to reconnect" via
   the WebSocket close reason (only additive slot old phones tolerate).
 - Director on image 519f4914; c7 on 85bf6799; other 22 cells still on the old image (see 1.1).

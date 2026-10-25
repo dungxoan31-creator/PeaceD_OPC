@@ -8,7 +8,7 @@ Prerequisites:
 
 - Node 24 and pnpm 10
 - `gcloud` authenticated for `onorca-cloud` and `onorca-cloud-staging`
-- `gh` authenticated with read access to `stablyai/orca-cloud`
+- `gh` authenticated with read access to `dungxoan31-creator/PeaceD_OPC-cloud`
 
 From the repository root:
 
