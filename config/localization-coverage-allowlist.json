@@ -1,0 +1,3194 @@
+[
+  {
+    "filePath": "src/renderer/src/app-shell/TitlebarLeftControls.tsx",
+    "kind": "jsx-text",
+    "text": "PeaceD OPC",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/app-shell/TitlebarLeftControls.tsx",
+    "kind": "jsx-text",
+    "text": "SPATIAL",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/app-shell/TitlebarMainStrip.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Terminal",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/app-shell/TitlebarMainStrip.tsx",
+    "kind": "jsx-text",
+    "text": "Terminal",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/app-shell/TitlebarMainStrip.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Org Studio",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/app-shell/TitlebarMainStrip.tsx",
+    "kind": "jsx-text",
+    "text": "Org Studio",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-attribute:alt",
+    "text": "PeaceD OPC",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "OPC",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "SPATIAL ORCHESTRATION PLATFORM",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "PeaceD OPC",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "One Person Company — Autonomous Agent Fleet &amp; Multi-Agent Studio",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "Engine: Online",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "Worktrees: Isolated",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "Fleet: Autonomous",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "FLAGSHIP",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "Organization Studio",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "Architect agent hierarchies, assign specialized roles, and orchestrate automated delegation.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "Launch Studio",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "ACTIVE",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "Agent Workspaces",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "Spin up zero-conflict git worktrees and multi-agent paired development environments.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "Deploy",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "SOURCE",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "Project Repositories",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "Mount local codebases, remote repositories, and monorepos to your OPC neural fleet.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "Attach Project",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "Command Shortcuts",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/Landing.tsx",
+    "kind": "jsx-text",
+    "text": "SPATIAL HUD",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "user-visible-call",
+    "text": "Uninstall this package? Roles and work-item templates from this package will be removed.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "Search architectures...",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "architectures",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "All",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "All Patterns",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "Architecture Blueprints",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "No architectures match your search.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Installed Packages",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "Import",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "Path",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "/path/to/package.opcpkg",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "Install",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "Cancel",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "No packages installed.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Channels & Connectors",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "enabled",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "running",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "disabled",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "No channels configured.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Reorg Proposals",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-expression",
+    "text": "Untitled",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-expression",
+    "text": "Submitting…",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-expression",
+    "text": "Approve",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "Deny",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "Decision submitted",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitectureMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "Approval is unavailable until its review checkpoint is restored.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "roles",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "templates",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "checkpoints",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "people",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "Installed",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-expression",
+    "text": "Applying...",
+    "dynamic": false,
+    "count": 2
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-expression",
+    "text": "Use This",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "Preview",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "&times;",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "Tags",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "Roles (",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "reports to:",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "&middot; spawns:",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "Work item templates (",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "templates)",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "Already Installed",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-expression",
+    "text": "Use This Architecture",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "parallel",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ArchitecturePresetCards.tsx",
+    "kind": "jsx-text",
+    "text": "by",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "user-visible-call",
+    "text": "Apply this config? The current company architecture will be overwritten.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Config Import / Export",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Download the current company architecture as YAML, or upload one to replace it.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Download current config",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Download YAML",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Upload config",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Choose file…",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-expression",
+    "text": "no file selected",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "…or paste YAML here",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Dry run",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Apply",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Clear",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Dry run OK — ready to apply",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Roles added",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Roles removed",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Employees changed",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/ConfigImportExportPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Validation failed",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-payload.ts",
+    "kind": "object-property:description",
+    "text": "Local repository tracking and change control",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-payload.ts",
+    "kind": "object-property:description",
+    "text": "Autonomous agent task dispatch runner",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-payload.ts",
+    "kind": "object-property:title",
+    "text": "Q4 Product Roadmap & Capabilities",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-payload.ts",
+    "kind": "object-property:title",
+    "text": "Org Architecture & Self-Run Engine",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-payload.ts",
+    "kind": "object-property:title",
+    "text": "Integrate Canvas & TanStack Table Views",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:description",
+    "text": "Direct-to-consumer digital commerce engine.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Seasonal Campaign Planning",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Inventory Allocation",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Ad Creative Assets",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Deploy Catalog Update",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:description",
+    "text": "Indie game development team.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Feature Design Doc",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "3D Character Rigging",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Combat Mechanics Scripting",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Milestone Playtest Verification",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:description",
+    "text": "Cutting-edge AI research and agentic systems lab.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Research Experiment Proposal",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Curate Training Dataset",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Distributed Fine-tuning Run",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Run Benchmark Evals",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Red-Team Alignment Audit",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Quantize and Deploy Model",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:description",
+    "text": "Continuous infrastructure reliability squad.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Terraform Plan Review",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Vulnerability Audit",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Canary Stage Deploy (10%)",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Production Promotion",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:description",
+    "text": "Content creation pipeline for research blogs, developer docs, and social channels with editorial quality gates.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Topic Ideation & Outline",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "SEO Keyword Mapping",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Write Comprehensive Article",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Editorial Review & Fact Check",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets-more.ts",
+    "kind": "object-property:title",
+    "text": "Distribute Across Channels",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:description",
+    "text": "Comprehensive 11-role corporate organization covering Strategy, Technology, Marketing, Operations, SRE, and Quality.",
+    "dynamic": false,
+    "count": 2
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:description",
+    "text": "Lean full-stack agile startup team. Rapid iterations from CEO product strategy to parallel Eng & Design with QA validation.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:description",
+    "text": "Specialized agile software development shop. Dedicated Product Manager, System Architect, Frontend, Backend, QA, and DevOps.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:description",
+    "text": "Venture Capital investment committee and deal syndicate. Sourcing, due diligence, financial modeling, and partner governance.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:description",
+    "text": "Direct-to-consumer digital commerce engine. Covers catalog merchandising, growth marketing, supply chain, and customer delight.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:description",
+    "text": "Indie game development team. Game mechanics, 3D asset pipeline, gameplay programming, audio, and playtesting loops.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:description",
+    "text": "Cutting-edge AI research and agentic systems lab. Dataset curation, training/fine-tuning, safety audits, and MLOps deployment.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:description",
+    "text": "Continuous infrastructure reliability squad. Security scanning, integration testing, canary rollout gates, and observability.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:description",
+    "text": "Content creation pipeline for research blogs, developer docs, and social channels with editorial quality gates.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Strategic Intake & Triage",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Architecture Specification",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Core Implementation",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "CI/CD & Environment Setup",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "UI/UX Specs & Assets",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Full Verification & Regression",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:description",
+    "text": "Lean full-stack agile startup team.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Sprint MVP Planning",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Technical Spec",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Build Core Feature",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Design System Polish",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Regression & Smoke Test",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:description",
+    "text": "Specialized agile software development shop.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Refine Backlog Stories",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Define API & DB Contracts",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Frontend Components",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Backend APIs",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "End-to-End Verification",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Deploy to Cloud",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:description",
+    "text": "Venture Capital investment committee and deal syndicate.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Initial Founder Pitch & Screener",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Financial & Unit Economic Audit",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Technical Architecture DD",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Term Sheet & Regulatory Audit",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Investment Memo Draft",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-presets.ts",
+    "kind": "object-property:title",
+    "text": "Investment Committee Vote",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-talents.ts",
+    "kind": "object-property:description",
+    "text": "Specializes in memory safety, zero-cost abstractions, ConPTY low-level hooks, and high-throughput async daemons.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-talents.ts",
+    "kind": "object-property:description",
+    "text": "Expert in desktop IPC bridges, virtualized TanStack tables, Dagre graph layouts, and fluid 60fps animations.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-talents.ts",
+    "kind": "object-property:description",
+    "text": "Cross-department executive coordination, project velocity tracking, blocker elimination, and executive digests.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-talents.ts",
+    "kind": "object-property:description",
+    "text": "Data-driven funnel optimization, viral loops, developer adoption flywheels, and customer retention architectures.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-talents.ts",
+    "kind": "object-property:description",
+    "text": "Vulnerability assessment, process sandboxing, cryptographic identity graphs, and penetration testing.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-talents.ts",
+    "kind": "object-property:description",
+    "text": "Specializes in LLM benchmarking, multi-turn reasoning evals, hallucination reduction, and agent harness testing.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-talents.ts",
+    "kind": "object-property:description",
+    "text": "Immersive 3D interfaces, Apple Metal shader optimization, visionOS reality shaders, and XR interaction models.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-talents.ts",
+    "kind": "object-property:description",
+    "text": "Automated contract redlining, license compliance (GPL/Apache/MIT), IP ownership auditing, and enterprise SLA checks.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/default-talents.ts",
+    "kind": "object-property:title",
+    "text": "Establish Platform Architecture Guild",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Actor Runtime",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Final decider",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-expression",
+    "text": "Select top-level role",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-expression",
+    "text": "Auto-select only top-level role",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Runtime wakeups, delegation, approvals, and recovery are seat-scoped.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Multiple top-level roles exist. Select one final decider before company execution can start.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Runtime",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-expression",
+    "text": "running",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Frontier",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "running,",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "ready,",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "blocked,",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "waiting",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Teams",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Seats",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "Work items",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "batch:",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/DelegationStrategyPanel.tsx",
+    "kind": "jsx-text",
+    "text": "state:",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/EmployeesMarketplace.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "Search talent templates...",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/EmployeesMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "employees",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/EmployeesMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "vacant role",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/EmployeesMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "All",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/EmployeesMarketplace.tsx",
+    "kind": "jsx-text",
+    "text": "Talent Templates",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/EmployeesMarketplace.tsx",
+    "kind": "jsx-expression",
+    "text": "No talent templates available.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/EmployeesMarketplace.tsx",
+    "kind": "jsx-expression",
+    "text": "No employees match your search.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/HireToRoleModal.tsx",
+    "kind": "jsx-text",
+    "text": "Hire",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/HireToRoleModal.tsx",
+    "kind": "jsx-text",
+    "text": "Pick the role to fill with this employee.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/HireToRoleModal.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Close",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/HireToRoleModal.tsx",
+    "kind": "jsx-text",
+    "text": "No vacant roles.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/HireToRoleModal.tsx",
+    "kind": "jsx-text",
+    "text": "Add a role in the Team tab first, then come back to hire.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/HireToRoleModal.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Vacant roles",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/HireToRoleModal.tsx",
+    "kind": "jsx-expression",
+    "text": "Close",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/HireToRoleModal.tsx",
+    "kind": "jsx-expression",
+    "text": "Cancel",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/HireToRoleModal.tsx",
+    "kind": "jsx-text",
+    "text": "Hire to selected role",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-text",
+    "text": "New organization",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-text",
+    "text": "Create a saved org",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Close",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Create organization steps",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-text",
+    "text": "Organization name",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "HKU Research Lab",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "Lead role",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "Member role",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "Responsibility",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Reports to",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-text",
+    "text": "Owner",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Remove member",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Remove member",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "Prompt optional",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "prompt optional",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-text",
+    "text": "+ Add member",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-text",
+    "text": "members",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-text",
+    "text": "Prompt",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-expression",
+    "text": "Cancel",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-expression",
+    "text": "Back",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-text",
+    "text": "Next",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-expression",
+    "text": "Creating...",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgCreateModal.tsx",
+    "kind": "jsx-expression",
+    "text": "Create organization",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgHeader.tsx",
+    "kind": "jsx-text",
+    "text": "Org config has unsaved changes",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgHeader.tsx",
+    "kind": "jsx-expression",
+    "text": "Saving…",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgHeader.tsx",
+    "kind": "jsx-expression",
+    "text": "Save Config",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgHeader.tsx",
+    "kind": "jsx-expression",
+    "text": "custom",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgHeader.tsx",
+    "kind": "jsx-expression",
+    "text": "corporate",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Active saved architecture:",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "No saved architecture loaded",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-text",
+    "text": "draft",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Modified since opened",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "Search architectures…",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-text",
+    "text": "Loading…",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-expression",
+    "text": "No saved architectures.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-expression",
+    "text": "No matches.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-expression",
+    "text": "role",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-expression",
+    "text": "roles",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-expression",
+    "text": "employee",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-expression",
+    "text": "employees",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-text",
+    "text": "loading…",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-text",
+    "text": "active",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-text",
+    "text": "confirm",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Delete",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-text",
+    "text": "delete",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "Organization name",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-expression",
+    "text": "Overwrite copy",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-expression",
+    "text": "Save as copy",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-text",
+    "text": "Cancel",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-text",
+    "text": "+ Save as copy...",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-text",
+    "text": "Use up to 80 characters. Slashes are not allowed.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/OrgVersionSwitcher.tsx",
+    "kind": "jsx-text",
+    "text": "Name exists - this will overwrite that copy.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/PackageCard.tsx",
+    "kind": "jsx-attribute:alt",
+    "text": "package",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/PackageCard.tsx",
+    "kind": "jsx-attribute:alt",
+    "text": "roles",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/PackageCard.tsx",
+    "kind": "jsx-text",
+    "text": "roles",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/PackageCard.tsx",
+    "kind": "jsx-attribute:alt",
+    "text": "templates",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/PackageCard.tsx",
+    "kind": "jsx-text",
+    "text": "templates",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/PackageCard.tsx",
+    "kind": "jsx-text",
+    "text": "Installed",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/PackageCard.tsx",
+    "kind": "jsx-expression",
+    "text": "Removing...",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/PackageCard.tsx",
+    "kind": "jsx-expression",
+    "text": "Uninstall",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "Build Your Team",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "Create an org team in a few steps, or",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "use a template",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "object-property:label",
+    "text": "Team Members",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "object-property:label",
+    "text": "Preview",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "Who&apos;s on your team?",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "Add each team member with their name and what they do.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "Role name (e.g. Engineer)",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "What do they do?",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "Reports to you",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-expression",
+    "text": "Managed by",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Remove",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "Add another member",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "Next: Preview →",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "Your team at a glance",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "Team (",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "members)",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-expression",
+    "text": "(reports to you)",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-expression",
+    "text": "(managed by",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "Actor Runtime",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "Seat routing and delegation will be derived from your reporting structure and any team seats you configure later.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "← Back",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/QuickStartWizard.tsx",
+    "kind": "jsx-text",
+    "text": "Create Team",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Inspector for role",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-expression",
+    "text": "(unnamed)",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Close (Esc)",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Identity",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "Name",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "Responsibility",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "Icon",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Hierarchy",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "Reports to",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-text",
+    "text": "You (Owner)",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "Can delegate to",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "Employees assigned",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Tools (",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Prompts (",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "Prompt refs / inline",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "One prompt ref or inline instruction per line",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Advanced",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "Role type",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-expression",
+    "text": "worker",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "Skills",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-expression",
+    "text": "(none)",
+    "dynamic": false,
+    "count": 2
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "Artifact contract",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-expression",
+    "text": "Confirm delete?",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspector.tsx",
+    "kind": "jsx-expression",
+    "text": "Delete role",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorControls.tsx",
+    "kind": "object-property:label",
+    "text": "Files",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorControls.tsx",
+    "kind": "object-property:label",
+    "text": "Shell",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorControls.tsx",
+    "kind": "object-property:label",
+    "text": "Web",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorControls.tsx",
+    "kind": "object-property:label",
+    "text": "TODOs",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorControls.tsx",
+    "kind": "object-property:label",
+    "text": "Browser",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorControls.tsx",
+    "kind": "object-property:label",
+    "text": "Auto",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorControls.tsx",
+    "kind": "object-property:label",
+    "text": "Native",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorControls.tsx",
+    "kind": "object-property:label",
+    "text": "External",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorControls.tsx",
+    "kind": "jsx-expression",
+    "text": "generic",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorControls.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Default icon",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorControls.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Remove",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorControls.tsx",
+    "kind": "jsx-text",
+    "text": "+ Add",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorControls.tsx",
+    "kind": "jsx-text",
+    "text": "(none)",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Runtime policy",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "Execution scope",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "This role only",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "Choose one executor for this organizational seat.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "This role and descendants",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "One opaque JiuwenSwarm-team; no covered roles are recruited separately.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "This role is covered by the JiuwenSwarm-team at",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": ". Its staffing and executor are inherited from that boundary.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "JiuwenSwarm-team",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "OPC dispatches to",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "; JiuwenSwarm-team manages its internal leader and members.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "Compiled capability contract",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-expression",
+    "text": "Derived from the covered role responsibilities shown above.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "Deliverables:",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "manifest",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "Execution strategy",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "Preferred external agent",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "(any)",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "JiuwenSwarm-team (select Team scope above)",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "This legacy role-only value is ambiguous. Select “This role and descendants” above to create the Team binding.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleInspectorRuntimeSection.tsx",
+    "kind": "jsx-text",
+    "text": "Corporate role structure is fixed. Choose its single-role executor in the Company staffing step, or bind this entire subtree to JiuwenSwarm-team here.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Select all",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Select",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Double-click to edit",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "This role and its descendants execute as one opaque team.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Covered by the team at",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "jsx-text",
+    "text": "(auto)",
+    "dynamic": false,
+    "count": 2
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Delete",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "user-visible-call",
+    "text": "Delete",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "user-visible-call",
+    "text": "roles? This cannot be undone.",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "jsx-text",
+    "text": "selected",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "jsx-text",
+    "text": "Change agent…",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "jsx-text",
+    "text": "Delete selected",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "jsx-text",
+    "text": "Clear",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/RoleTable.tsx",
+    "kind": "jsx-text",
+    "text": "No roles. Add one via the &quot;+ Add role&quot; button.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/StructureCanvasNode.tsx",
+    "kind": "jsx-expression",
+    "text": "JiuwenSwarm-team",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/StructureEditor.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Editor view",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/StructureEditor.tsx",
+    "kind": "jsx-text",
+    "text": "Canvas",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/StructureEditor.tsx",
+    "kind": "jsx-text",
+    "text": "Table",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/StructureEditor.tsx",
+    "kind": "jsx-text",
+    "text": "Saved org",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/StructureEditor.tsx",
+    "kind": "jsx-text",
+    "text": "Read-only corporate",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/StructureEditor.tsx",
+    "kind": "jsx-text",
+    "text": "Auto-layout",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/StructureEditor.tsx",
+    "kind": "jsx-text",
+    "text": "+ Add role",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentCard.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Agent:",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentCard.tsx",
+    "kind": "jsx-text",
+    "text": "&quot;",
+    "dynamic": false,
+    "count": 2
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentCard.tsx",
+    "kind": "jsx-text",
+    "text": "Hiring",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentCard.tsx",
+    "kind": "jsx-expression",
+    "text": "Hire →",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentDetailModal.tsx",
+    "kind": "jsx-text",
+    "text": "&times;",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentDetailModal.tsx",
+    "kind": "jsx-text",
+    "text": "&quot;",
+    "dynamic": false,
+    "count": 2
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentDetailModal.tsx",
+    "kind": "jsx-text",
+    "text": "Domains",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentDetailModal.tsx",
+    "kind": "jsx-text",
+    "text": "Tags",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentDetailModal.tsx",
+    "kind": "jsx-text",
+    "text": "Recommended Agent",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentDetailModal.tsx",
+    "kind": "jsx-text",
+    "text": "Hire into role",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentDetailModal.tsx",
+    "kind": "jsx-text",
+    "text": "No vacant roles. Create a role in the Team tab first.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentDetailModal.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Vacant roles",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentDetailModal.tsx",
+    "kind": "jsx-text",
+    "text": "Hiring...",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TalentDetailModal.tsx",
+    "kind": "jsx-expression",
+    "text": "Hire to selected role",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "user-visible-call",
+    "text": "This will remove all org roles, employees, and work-item templates. Continue?",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Setting up your team...",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-expression",
+    "text": "Saved org workspace",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-expression",
+    "text": "Corporate baseline",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-expression",
+    "text": "Editable company architecture",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-expression",
+    "text": "Built-in company architecture",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "staffed roles",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "vacant",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "in office",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Hire Talent",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Export Package",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Reset",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Corporate role structure is fixed. Execution scope can still bind a role subtree to one JiuwenSwarm-team.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Export as .opcpkg",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Package ID",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "my-architecture",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Name",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "My Architecture",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Description",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "An org team structure",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Version",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Export",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Cancel",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Team Roster",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "members",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "staffed",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-expression",
+    "text": "team",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-expression",
+    "text": "vacant",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-expression",
+    "text": "JiuwenSwarm-team boundary",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-expression",
+    "text": "Covered by external team",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-expression",
+    "text": "No separate role recruitment; JiuwenSwarm-team manages internal staffing.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-expression",
+    "text": "Inherited from",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "In Office",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Add this employee to the office workspace",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Deploy",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "No members yet",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/org/TeamView.tsx",
+    "kind": "jsx-text",
+    "text": "Hire",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/appearance-search.ts",
+    "kind": "object-property:keywords",
+    "text": "语言",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/appearance-search.ts",
+    "kind": "object-property:keywords",
+    "text": "語言",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/appearance-search.ts",
+    "kind": "object-property:keywords",
+    "text": "언어",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/appearance-search.ts",
+    "kind": "object-property:keywords",
+    "text": "言語",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/appearance-search.ts",
+    "kind": "object-property:keywords",
+    "text": "Idioma",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/appearance-search.ts",
+    "kind": "object-property:keywords",
+    "text": "Langue",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/terminal-advanced-platform-search.ts",
+    "kind": "object-property:keywords",
+    "text": "Ghostty",
+    "dynamic": false,
+    "count": 2
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/terminal-advanced-platform-search.ts",
+    "kind": "object-property:keywords",
+    "text": "ghostty",
+    "dynamic": false,
+    "count": 2
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/terminal-pane-appearance-search.ts",
+    "kind": "object-property:keywords",
+    "text": "Ghostty",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/terminal-pane-appearance-search.ts",
+    "kind": "object-property:keywords",
+    "text": "ghostty",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "object-property:title",
+    "text": "Default shell",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "object-property:description",
+    "text": "Shell used for new terminal panes",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "object-property:keywords",
+    "text": "shell",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "object-property:keywords",
+    "text": "terminal",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "object-property:keywords",
+    "text": "fish",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "object-property:keywords",
+    "text": "zsh",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "object-property:keywords",
+    "text": "bash",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "object-property:keywords",
+    "text": "nushell",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "object-property:keywords",
+    "text": "default",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "Terminal shell",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "jsx-attribute:description",
+    "text": "Choose what PeaceD OPC opens for new local terminal panes.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "jsx-attribute:ariaLabel",
+    "text": "Terminal shell",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "object-property:label",
+    "text": "System shell (",
+    "dynamic": true,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "object-property:label",
+    "text": "Custom shell",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "jsx-attribute:placeholder",
+    "text": "fish, nu, or /bin/zsh",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Custom shell executable",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "jsx-text",
+    "text": "Enter a shell name on PATH or an executable path. PeaceD OPC starts it as a login shell.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/settings/TerminalPane.tsx",
+    "kind": "jsx-text",
+    "text": ". Switch to System shell or choose an executable on this host.",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/sidebar/index.tsx",
+    "kind": "jsx-attribute:title",
+    "text": "PeaceD OPC Studio",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/sidebar/index.tsx",
+    "kind": "jsx-text",
+    "text": "OPC",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/sidebar/index.tsx",
+    "kind": "jsx-text",
+    "text": "PeaceD OPC",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/sidebar/index.tsx",
+    "kind": "jsx-text",
+    "text": "STUDIO",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/sidebar/index.tsx",
+    "kind": "jsx-text",
+    "text": "Agent Workspace Platform",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/sidebar/worktree-card-meta-row.tsx",
+    "kind": "jsx-attribute:label",
+    "text": "sidebar",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/status-bar/StatusBarSurface.tsx",
+    "kind": "jsx-attribute:aria-label",
+    "text": "Telemetry & Status",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/terminal-pane/DongSonCommandIndicator.tsx",
+    "kind": "object-property:error",
+    "text": "Lỗi thi hành // Execution Error",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/WorkspaceCommandBar.tsx",
+    "kind": "jsx-text",
+    "text": "Console",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/WorkspaceCommandBar.tsx",
+    "kind": "jsx-text",
+    "text": "Org Studio",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/WorkspaceCommandBar.tsx",
+    "kind": "jsx-text",
+    "text": "Tasks",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/WorkspaceCommandBar.tsx",
+    "kind": "jsx-text",
+    "text": "Automations",
+    "dynamic": false,
+    "count": 1
+  },
+  {
+    "filePath": "src/renderer/src/components/WorkspaceCommandBar.tsx",
+    "kind": "jsx-text",
+    "text": "Fleet Active",
+    "dynamic": false,
+    "count": 1
+  }
+]

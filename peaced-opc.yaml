@@ -1,0 +1,5 @@
+# PeaceD OPC Configuration - Nguyen Huu Dung
+scripts:
+  setup: |
+    node config/scripts/run-internal-dev-setup.mjs
+    pnpm install

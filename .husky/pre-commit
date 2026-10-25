@@ -1,0 +1,3 @@
+# PeaceD OPC Pre-commit Hook
+#!/usr/bin/env sh
+pnpm exec lint-staged

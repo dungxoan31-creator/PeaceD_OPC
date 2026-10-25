@@ -1,0 +1,177 @@
+# PeaceD OPC Organization Architecture
+organization_id: software-studio
+organization_name: Software Studio
+company_profile: custom
+final_decider_role_id: pm
+top_level_role_ids:
+  - ceo
+org_version: 5
+runtime_policy:
+  communication:
+    default_mode: async
+    blocking_default: false
+    allow_broadcast: true
+  handoff:
+    require_structured_handoff: true
+    require_ack: true
+  review:
+    strict_gate_inference: true
+    allow_human_override: true
+  parallel:
+    auto_dispatch: true
+    max_workers: 8
+roles:
+  - role_id: pm
+    name: Product Manager
+    responsibility: Backlog prioritization, user stories, and acceptance criteria
+    status: active
+    reports_to: owner
+    icon: leader
+    can_spawn:
+      - architect
+    tools: []
+    is_builtin: false
+  - role_id: architect
+    name: System Architect
+    responsibility: System design, API contracts, and schema modeling
+    status: active
+    reports_to: pm
+    icon: code
+    can_spawn:
+      - frontend_lead
+      - backend_lead
+    tools: []
+    is_builtin: false
+  - role_id: frontend_lead
+    name: Frontend Lead
+    responsibility: Component library, client state, and responsive views
+    status: active
+    reports_to: architect
+    icon: code
+    can_spawn: []
+    tools: []
+    is_builtin: false
+  - role_id: backend_lead
+    name: Backend Lead
+    responsibility: API services, database queries, and background workers
+    status: active
+    reports_to: architect
+    icon: code
+    can_spawn: []
+    tools: []
+    is_builtin: false
+  - role_id: qa_lead
+    name: QA Lead
+    responsibility: Integration testing, automated suites, and defect triage
+    status: active
+    reports_to: pm
+    icon: code
+    can_spawn: []
+    tools: []
+    is_builtin: false
+  - role_id: devops
+    name: DevOps & SRE
+    responsibility: Kubernetes clusters, deployment pipelines, and telemetry
+    status: active
+    reports_to: architect
+    icon: code
+    can_spawn: []
+    tools: []
+    is_builtin: false
+employees:
+  - employee_id: emp-pm-01
+    name: Agent Product Manager
+    role_id: pm
+    role_ids:
+      - pm
+    category: general
+    domains:
+      - Operations
+    seniority: Lead
+    status: active
+    tags:
+      - AI Agent
+      - Product Manager
+    skill_refs: []
+    experience_score: 90
+    learned_skill_refs: []
+  - employee_id: emp-architect-01
+    name: Agent System Architect
+    role_id: architect
+    role_ids:
+      - architect
+    category: general
+    domains:
+      - Operations
+    seniority: Lead
+    status: active
+    tags:
+      - AI Agent
+      - System Architect
+    skill_refs: []
+    experience_score: 90
+    learned_skill_refs: []
+  - employee_id: emp-frontend_lead-01
+    name: Agent Frontend Lead
+    role_id: frontend_lead
+    role_ids:
+      - frontend_lead
+    category: general
+    domains:
+      - Operations
+    seniority: Lead
+    status: active
+    tags:
+      - AI Agent
+      - Frontend Lead
+    skill_refs: []
+    experience_score: 90
+    learned_skill_refs: []
+  - employee_id: emp-backend_lead-01
+    name: Agent Backend Lead
+    role_id: backend_lead
+    role_ids:
+      - backend_lead
+    category: general
+    domains:
+      - Operations
+    seniority: Lead
+    status: active
+    tags:
+      - AI Agent
+      - Backend Lead
+    skill_refs: []
+    experience_score: 90
+    learned_skill_refs: []
+  - employee_id: emp-qa_lead-01
+    name: Agent QA Lead
+    role_id: qa_lead
+    role_ids:
+      - qa_lead
+    category: general
+    domains:
+      - Operations
+    seniority: Lead
+    status: active
+    tags:
+      - AI Agent
+      - QA Lead
+    skill_refs: []
+    experience_score: 90
+    learned_skill_refs: []
+  - employee_id: emp-devops-01
+    name: Agent DevOps & SRE
+    role_id: devops
+    role_ids:
+      - devops
+    category: general
+    domains:
+      - Operations
+    seniority: Lead
+    status: active
+    tags:
+      - AI Agent
+      - DevOps & SRE
+    skill_refs: []
+    experience_score: 90
+    learned_skill_refs: []

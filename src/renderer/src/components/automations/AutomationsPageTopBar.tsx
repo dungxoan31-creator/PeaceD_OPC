@@ -1,0 +1,71 @@
+import React from 'react'
+import { translate } from '@/i18n/i18n'
+import { AutomationOwnerConflictNotice } from './AutomationOwnerConflictNotice'
+import { AutomationsPageBreadcrumb } from './AutomationsPageBreadcrumb'
+import type { AutomationHostRecoveryAction } from './automation-host-status-descriptors'
+import type { AutomationActionNotice } from './automation-row-action-dispatch'
+
+export function AutomationsPageTopBar({
+  pageView,
+  isDetailOpen,
+  selectedAutomationName,
+  runPageOrigin,
+  ownerNotice,
+  recoverOwnerAction,
+  dismissOwnerAction,
+  showAutomationsList,
+  showRunsDashboard,
+  showAutomationDetails
+}: {
+  pageView: 'automations' | 'runs' | 'run'
+  isDetailOpen: boolean
+  selectedAutomationName?: string
+  runPageOrigin: 'automation' | 'runs'
+  ownerNotice: AutomationActionNotice | null
+  recoverOwnerAction: (action: AutomationHostRecoveryAction) => void
+  dismissOwnerAction: () => void
+  showAutomationsList: () => void
+  showRunsDashboard: () => void
+  showAutomationDetails: () => void
+}): React.JSX.Element {
+  return (
+    <>
+      <header
+        className="flex shrink-0 items-center px-3 pb-3 md:px-5"
+        style={{ paddingRight: 'max(0.75rem, var(--window-controls-width, 0px))' }}
+      >
+        {pageView === 'runs' || pageView === 'run' ? (
+          <AutomationsPageBreadcrumb
+            current={pageView}
+            onBackToAutomations={showAutomationsList}
+            onBackToRuns={showRunsDashboard}
+            automationName={runPageOrigin === 'automation' ? selectedAutomationName : undefined}
+            onBackToAutomation={showAutomationDetails}
+          />
+        ) : isDetailOpen && selectedAutomationName ? (
+          <AutomationsPageBreadcrumb
+            current="automation"
+            automationName={selectedAutomationName}
+            onBackToAutomations={showAutomationsList}
+          />
+        ) : (
+          <div className="flex items-center gap-2.5">
+            <div className="size-2 rounded-full bg-primary glow-gold animate-pulse" />
+            <h1 className="truncate text-base font-bold leading-8 tracking-tight text-foreground">
+              {translate(
+                'auto.components.automations.AutomationsPage.77c2778945',
+                'Tiến trình tự động // Automations'
+              )}
+            </h1>
+          </div>
+        )}
+      </header>
+      <AutomationOwnerConflictNotice
+        notice={ownerNotice}
+        className="mx-4 mb-2"
+        onRecover={recoverOwnerAction}
+        onDismiss={dismissOwnerAction}
+      />
+    </>
+  )
+}

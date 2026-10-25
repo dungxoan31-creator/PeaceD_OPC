@@ -1,0 +1,39 @@
+# Files currently allowed to carry a `@ts-nocheck` header.
+# This is a RATCHET: the list may only SHRINK. These exist only because the split
+# runtime mixin chain cannot express forward references yet — do NOT add entries to
+# get CI green; fix the types instead.
+# Regenerate/prune: pnpm check:ts-nocheck-ratchet --prune   (removes stale entries only)
+src/main/runtime/runtime-browser-commands-active-screencasts-by-page-id.ts
+src/main/runtime/runtime-browser-commands-browser-clear.ts
+src/main/runtime/runtime-browser-commands-browser-click.ts
+src/main/runtime/runtime-browser-commands-browser-command-target-params.ts
+src/main/runtime/runtime-browser-commands-browser-network-log.ts
+src/main/runtime/runtime-browser-commands-browser-profile-import-from-browser.ts
+src/main/runtime/runtime-browser-commands-browser-screencast.ts
+src/main/runtime/runtime-browser-commands-browser-set-headers.ts
+src/main/runtime/runtime-browser-commands-browser-tab-close.ts
+src/main/runtime/runtime-browser-commands-browser-tab-create.ts
+src/main/runtime/runtime-browser-commands-browser-tab-list.ts
+src/main/runtime/runtime-browser-commands-browser-tab-set-profile.ts
+src/main/runtime/runtime-browser-commands-list-logical-browser-tabs.ts
+src/main/runtime/runtime-browser-commands-state.ts
+src/main/runtime/runtime-file-command-host.ts
+src/main/runtime/runtime-file-commands-active-runtime-text-searches.ts
+src/main/runtime/runtime-file-commands-assert-remote-terminal-file-grant-path-still-canonical.ts
+src/main/runtime/runtime-file-commands-constructor.ts
+src/main/runtime/runtime-file-commands-create-file-explorer-dir-no-clobber.ts
+src/main/runtime/runtime-file-commands-mobile-file-list-limit.ts
+src/main/runtime/runtime-file-commands-read-file-explorer-preview.ts
+src/main/runtime/runtime-file-commands-read-mobile-file.ts
+src/main/runtime/runtime-file-commands-resolve-allowed-terminal-artifact-path.ts
+src/main/runtime/runtime-file-commands-resolve-terminal-path.ts
+src/main/runtime/runtime-file-commands-revoke-terminal-file-grants-for-client.ts
+src/main/runtime/runtime-file-commands-search-local-runtime-files.ts
+src/main/runtime/runtime-file-commands-search-remote-quick-open-file-paths.ts
+src/main/runtime/runtime-file-commands-search-runtime-files.ts
+src/main/runtime/runtime-file-commands-ssh-file-watcher-rearm.ts
+src/main/runtime/runtime-file-commands-terminal-artifact-access.ts
+src/main/runtime/runtime-file-commands-terminal-file-paths.ts
+src/main/runtime/runtime-file-commands-write-file-explorer-file.ts
+src/main/runtime/runtime-file-commands-write-terminal-artifact-file.ts
+src/main/runtime/runtime-file-watcher-leases.ts
