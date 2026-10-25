@@ -1,3 +1,4 @@
+// PeaceD OPC Windows CLI Launcher - Nguyễn Hữu Dũng (MSV: 11235559)
 using System;
 using System.Diagnostics;
 using System.IO;

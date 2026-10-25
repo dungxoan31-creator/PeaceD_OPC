@@ -93,7 +93,7 @@ concurrency:
 
 jobs:
   build-win:
-    if: github.repository == 'stablyai/orca'
+    if: github.repository == 'dungxoan31-creator/PeaceD_OPC'
     # Why the same environment as the mac workflows: this needs the App token
     # that can write to the dev-channel repos, and it should be reachable from
     # exactly the same place those secrets already live.
@@ -157,11 +157,11 @@ jobs:
           git init -q --bare --ref-format=reftable "$scratch"
           git -C "$scratch" fetch -q --filter=tree:0 "$REPO_URL" '+refs/heads/*:refs/heads/*' '+refs/tags/*:refs/tags/*'
           if ! git -C "$scratch" rev-parse --verify --quiet "$REQUESTED_SHA^{commit}" >/dev/null; then
-            echo "::error::Commit $REQUESTED_SHA is not in stablyai/orca."
+            echo "::error::Commit $REQUESTED_SHA is not in dungxoan31-creator/PeaceD_OPC."
             exit 1
           fi
           if [[ -z "$(git -C "$scratch" for-each-ref --contains "$REQUESTED_SHA" refs/heads refs/tags | head -1)" ]]; then
-            echo "::error::Commit $REQUESTED_SHA is not reachable from any branch or tag of stablyai/orca; refusing to build it."
+            echo "::error::Commit $REQUESTED_SHA is not reachable from any branch or tag of dungxoan31-creator/PeaceD_OPC; refusing to build it."
             exit 1
           fi
           echo "Vetted $CHANNEL $TAG at $REQUESTED_SHA"
@@ -170,7 +170,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           ref: ${{ inputs.ref }}
-          # This job only reads stablyai/orca and never pushes; every write goes
+          # This job only reads dungxoan31-creator/PeaceD_OPC and never pushes; every write goes
           # to the dev-channel repo through a minted App token passed by env
           # (zizmor: artipacked).
           persist-credentials: false
@@ -262,7 +262,7 @@ jobs:
           # Why unset ORCA_BUILD_IDENTITY: telemetry's transport gate accepts only
           # 'stable' or 'rc', so leaving it unset keeps dev builds silent — which
           # is correct for unvetted artifacts. Same as the mac dev channels.
-          ORCA_DIAGNOSTICS_TOKEN_URL: https://www.onorca.dev/diagnostics/token
+          ORCA_DIAGNOSTICS_TOKEN_URL: https://github.com/dungxoan31-creator/PeaceD_OPC/diagnostics/token
 
       # Why the token is minted here and not at the top: installation tokens live
       # one hour and nothing before this point writes anything.
@@ -272,7 +272,7 @@ jobs:
         with:
           app-id: ${{ secrets.HOURLY_RELEASE_APP_ID }}
           private-key: ${{ secrets.HOURLY_RELEASE_APP_PRIVATE_KEY }}
-          owner: stablyai
+          owner: dungxoan31-creator
           repositories: orca-${{ inputs.channel }}
 
       # Why: electron-builder's publisher creates a release when it cannot find
@@ -285,8 +285,8 @@ jobs:
           GH_TOKEN: ${{ steps.app_token.outputs.token }}
         run: |
           set -euo pipefail
-          if ! gh release view "$TAG" --repo "stablyai/orca-$CHANNEL" --json tagName >/dev/null 2>&1; then
-            echo "::error::Release $TAG no longer exists in stablyai/orca-$CHANNEL; the mac leg most likely failed and discarded it. Not creating a Windows-only release."
+          if ! gh release view "$TAG" --repo "dungxoan31-creator/PeaceD_OPC-$CHANNEL" --json tagName >/dev/null 2>&1; then
+            echo "::error::Release $TAG no longer exists in dungxoan31-creator/PeaceD_OPC-$CHANNEL; the mac leg most likely failed and discarded it. Not creating a Windows-only release."
             exit 1
           fi
 
@@ -317,7 +317,7 @@ jobs:
           GH_TOKEN: ${{ steps.app_token.outputs.token }}
         run: |
           set -euo pipefail
-          assets="$(gh release view "$TAG" --repo "stablyai/orca-$CHANNEL" --json assets --jq '.assets[].name')"
+          assets="$(gh release view "$TAG" --repo "dungxoan31-creator/PeaceD_OPC-$CHANNEL" --json assets --jq '.assets[].name')"
           echo "Assets on $TAG:"
           echo "$assets"
           for required in latest.yml orca-windows-setup.exe; do

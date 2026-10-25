@@ -2448,7 +2448,7 @@
     "ko": "# 예: pnpm install cp \"$ORCA_ROOT_PATH/.env\" \"$ORCA_WORKTREE_PATH/.env\""
   },
   "auto.components.settings.RepositoryHooksSection.b20c5df6ca": {
-    "ko": "이 repo의 공유 설정, 아카이브 또는 이슈 자동화 기본값을 사용하려면 `orca.yaml` 파일을 추가하세요. 예제 템플릿:"
+    "ko": "이 repo의 공유 설정, 아카이브 또는 이슈 자동화 기본값을 사용하려면 `peaced-opc.yaml` 파일을 추가하세요. 예제 템플릿:"
   },
   "auto.components.settings.RepositoryHooksSection.b5e3e77e89": {
     "ko": "작업"
@@ -4569,7 +4569,7 @@
     "ko": "합계"
   },
   "auto.components.stats.share.card.utils.19f4b4dc75": {
-    "ko": "github.com/stablyai/orca"
+    "ko": "github.com/dungxoan31-creator/PeaceD_OPC"
   },
   "auto.components.stats.share.card.utils.7080aeaebb": {
     "ko": "추론"

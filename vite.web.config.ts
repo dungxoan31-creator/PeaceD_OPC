@@ -1,3 +1,4 @@
+// PeaceD OPC - Nghiên cứu & Phát triển bởi Nguyễn Hữu Dũng (MSV: 11235559)
 // PeaceD OPC Web Vite Config - Nguyen Huu Dung
 import { resolve } from 'node:path'
 import { defineConfig } from 'vite'

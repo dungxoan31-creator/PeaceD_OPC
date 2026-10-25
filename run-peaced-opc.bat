@@ -1,3 +1,4 @@
+:: PeaceD OPC - Nghiên cứu & Phát triển bởi Nguyễn Hữu Dũng (MSV: 11235559)
 :: PeaceD OPC Runner - Nguyen Huu Dung
 @echo off
 setlocal

@@ -1,11 +1,11 @@
 {
   "manifestVersion": 1,
   "id": "orca-navigation-shortcuts",
-  "publisher": "stablyai",
+  "publisher": "dungxoan31-creator",
   "name": "Orca Navigation Shortcuts",
   "version": "1.0.0",
   "description": "Command aliases and optional shortcuts for frequent Orca views.",
-  "repository": "https://github.com/stablyai/orca-navigation-shortcuts",
+  "repository": "https://github.com/dungxoan31-creator/PeaceD_OPC-navigation-shortcuts",
   "engines": { "orca": ">=1.4.0" },
   "pluginApi": 1,
   "contributes": {

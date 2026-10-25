@@ -1,6 +1,6 @@
 # Running orcad
 
-`orcad` is the Orca runtime served from plain Node. This is the contract between it and
+`orcad` is the PeaceD OPC runtime served from plain Node. This is the contract between it and
 whatever supervises it: what it binds, what it owns on disk, who restarts what, and what its
 readiness payload actually proves.
 
@@ -38,7 +38,7 @@ interface got bound. `localhost` maps to `127.0.0.1`. `0.0.0.0` / `::` are the e
 opt-ins to network reach, and the startup log says so on every launch.
 
 The bind is **pinned**, not defaulted. Two things widen the desktop's listener on their own —
-`orca serve`'s wide default, and a startup where some device has connected before — and an
+`peaced-opc serve`'s wide default, and a startup where some device has connected before — and an
 unattended host's exposure must be exactly what the operator asked for on every launch. A
 mobile pairing offer, which normally rebinds to all interfaces, is refused while the bind is
 pinned to loopback and reports `network_exposure_failed` rather than advertising an endpoint
@@ -49,7 +49,7 @@ loopback is the correct default and the pairing credential travels over SSH.
 
 ## Data root and the instance lock
 
-The data root is `$ORCA_USER_DATA`, else `$XDG_DATA_HOME/Orca`, else `~/.orca`.
+The data root is `$ORCA_USER_DATA`, else `$XDG_DATA_HOME/PeaceD OPC`, else `~/.orca`.
 
 Before the profile index or the store is touched, orcad takes `<data-root>/orcad.lock`.
 It refuses to start when:
@@ -95,7 +95,7 @@ execution host affected by the stop, and lists no terminals on those hosts. Ever
 boundary. A separately paired runtime is outside that boundary; local execution and SSH hosts
 reached through this runtime are not. An affected or unknown omission, missing scope,
 truncation, a failed request or lost contact makes the result `unverifiable`: defer the stop. Do
-not admit new work after the census. Orca does not yet provide an atomic census-and-stop fence.
+not admit new work after the census. PeaceD OPC does not yet provide an atomic census-and-stop fence.
 
 ### Who supervises orcad
 

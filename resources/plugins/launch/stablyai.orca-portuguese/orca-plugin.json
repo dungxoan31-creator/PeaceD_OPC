@@ -1,11 +1,11 @@
 {
   "manifestVersion": 1,
   "id": "orca-portuguese",
-  "publisher": "stablyai",
+  "publisher": "dungxoan31-creator",
   "name": "Português do Brasil",
   "version": "1.0.0",
   "description": "Brazilian Portuguese translations for common Orca navigation.",
-  "repository": "https://github.com/stablyai/orca-portuguese",
+  "repository": "https://github.com/dungxoan31-creator/PeaceD_OPC-portuguese",
   "engines": { "orca": ">=1.4.0" },
   "pluginApi": 1,
   "contributes": {

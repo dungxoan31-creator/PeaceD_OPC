@@ -12,3 +12,5 @@
 ### Danh mục tệp tài liệu trong thư mục:
 1. `NguyenHuuDung_11235559_BaoCaoDeAn_DA_CHINH_SUA.docx`: Bản báo cáo thuyết minh đề án hoàn chỉnh định dạng Word (bao gồm lý do chọn đề tài, khảo sát bài toán, cơ sở lý thuyết, kiến trúc hệ thống, thiết kế chức năng, thực nghiệm và kết luận).
 2. `README.md`: Bản tóm lược nội dung và mục lục tra cứu đề án.
+
+*Cập nhật lần cuối: 2026-10-25T05:52:40.376Z*

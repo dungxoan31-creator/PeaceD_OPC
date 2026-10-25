@@ -33,7 +33,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release download v1.4.188 --repo stablyai/orca --pattern orca-ide_1.4.188_amd64.deb --dir "$RUNNER_TEMP/old-orca"
+          gh release download v1.4.188 --repo dungxoan31-creator/PeaceD_OPC --pattern orca-ide_1.4.188_amd64.deb --dir "$RUNNER_TEMP/old-orca"
           python3 - <<'PYVERIFY'
           import base64,hashlib,os,pathlib,subprocess
           root=pathlib.Path(os.environ['RUNNER_TEMP'])/'old-orca'

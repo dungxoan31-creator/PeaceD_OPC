@@ -416,7 +416,7 @@ way until the cell is rolled.
 Read the failed run before dispatching anything. If its log has a
 `"event":"relay_production_capacity_canary","mode":"drain"` line for the cell, the cell is
 drained. Then read the cell's live runtime image from
-`POST https://<hostname>.relay.onorca.dev/v1/admin/runtime-status`.
+`POST https://<hostname>.relay.github.com/dungxoan31-creator/PeaceD_OPC/v1/admin/runtime-status`.
 
 1. **Do not re-dispatch `apply`.** It requires the cell general and not draining, and a
    drained cell is neither. It will fail closed at the predecessor check.

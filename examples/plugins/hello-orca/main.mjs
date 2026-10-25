@@ -1,3 +1,4 @@
+// PeaceD OPC Plugin Sample - Nguyễn Hữu Dũng (MSV: 11235559)
 // PeaceD OPC Example Plugin
 // Sample Orca plugin worker entry. Runs inside the out-of-process plugin
 // worker (plain Node, no Electron), forked lazily on the first trigger. The

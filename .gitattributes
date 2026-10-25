@@ -1,3 +1,4 @@
+# PeaceD OPC - Nghiên cứu & Phát triển bởi Nguyễn Hữu Dũng (MSV: 11235559)
 # PeaceD OPC Git Attributes
 # A shebang plus CRLF makes vite's SSR transform emit a literal `#!` mid-module,
 # so any suite importing the script dies at load with a SyntaxError. Pin the whole

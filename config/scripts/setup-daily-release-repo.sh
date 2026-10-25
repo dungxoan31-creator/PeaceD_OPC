@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Creates stablyai/orca-daily and grants the existing release App write access to
+# Creates dungxoan31-creator/PeaceD_OPC-daily and grants the existing release App write access to
 # it, so daily-mac-build.yml can publish there.
 #
 # Why a separate repo rather than reusing orca-hourly: the daily channel is a
@@ -17,7 +17,7 @@
 #
 set -euo pipefail
 
-ORG="stablyai"
+ORG="dungxoan31-creator"
 DAILY_REPO="$ORG/orca-daily"
 MAIN_REPO="$ORG/orca"
 APP_SLUG="orca-hourly-release"

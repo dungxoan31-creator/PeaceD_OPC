@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Creates stablyai/orca-adhoc and grants the existing release App write access to
+# Creates dungxoan31-creator/PeaceD_OPC-adhoc and grants the existing release App write access to
 # it, so adhoc-mac-build.yml can publish there.
 #
 # Why a separate repo rather than reusing orca-hourly: an adhoc build is somebody's
@@ -16,7 +16,7 @@
 #
 set -euo pipefail
 
-ORG="stablyai"
+ORG="dungxoan31-creator"
 ADHOC_REPO="$ORG/orca-adhoc"
 MAIN_REPO="$ORG/orca"
 APP_SLUG="orca-hourly-release"

@@ -37,7 +37,7 @@ Set environment-specific values without printing the resulting token:
 ```sh
 export PROJECT_ID=onorca-cloud-staging
 export REGION=us-central1
-export DIRECTOR_ORIGIN=https://relay-staging.onorca.dev
+export DIRECTOR_ORIGIN=https://relay-staging.github.com/dungxoan31-creator/PeaceD_OPC
 export DEPLOY_SERVICE_ACCOUNT=orca-cloud-staging-gha-deploy@onorca-cloud-staging.iam.gserviceaccount.com
 export ADMIN_AUDIENCE="${DIRECTOR_ORIGIN}/v1/admin/drain"
 ADMIN_TOKEN="$(gcloud auth print-identity-token \

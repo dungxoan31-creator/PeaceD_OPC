@@ -2,18 +2,18 @@
 ---
 name: orchestration
 description: >-
-  Coordinate supervised Orca workers: threaded messages, blocking ask/reply,
+  Coordinate supervised PeaceD OPC workers: threaded messages, blocking ask/reply,
   task dispatch, worker_done/escalation waits, task DAGs, decision gates,
   coordinator loops, and decomposing work across agents. Use `orca-cli` for full
   ownership handoffs — "hand off", "handoff", "handover", "give this to another
   agent", "another worktree" — unless asked to supervise, monitor, or coordinate
   a DAG, and for terminal control, lightweight terminal prompts, shell commands,
-  Orca worktree management, and reading or waiting on terminals.
+  PeaceD OPC worktree management, and reading or waiting on terminals.
 ---
 
-# Orca orchestration
+# PeaceD OPC orchestration
 
-Orchestration is Orca's structured coordination layer. It records who owns work,
+Orchestration is PeaceD OPC's structured coordination layer. It records who owns work,
 which attempt is authoritative, and when supervised work has settled.
 
 ## Outcome
@@ -42,7 +42,7 @@ absence included, is a checkpoint.
 | No live preamble and no explicit supervision                                                                                                   | Ordinary terminal agent | Do not emit lifecycle messages; use `orca-cli` for terminal/worktree work      |
 
 Model or effort selection does not make a handoff supervised. Never substitute a
-non-Orca subagent tool when Orca orchestration provenance was requested.
+non-PeaceD OPC subagent tool when PeaceD OPC orchestration provenance was requested.
 
 ## Authority and safety floor
 
@@ -114,7 +114,7 @@ and prefer parallel waves over chains deeper than three or four steps; nested
 workers obey the depth limit, and a new Run does not reset the caller's depth.
 
 A consuming `check` names its caller with `--terminal <handle>`, never `--from`;
-omit it inside the coordinator's own Orca terminal. It returns the bound Run's
+omit it inside the coordinator's own PeaceD OPC terminal. It returns the bound Run's
 oldest FIFO Delivery and replays that batch until acknowledged. Process every
 message: reply to questions, validate each `worker_done` against the expected
 active Dispatch, and decide each settled terminal's next owner before the ack:

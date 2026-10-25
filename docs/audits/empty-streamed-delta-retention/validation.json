@@ -42,7 +42,7 @@
   "ciArtifactCorrection": {
     "pullRequest": 21142,
     "failedHead": "9ed7c4f5c880ab64dda8a1a8a04ca8455af42b5d",
-    "failedJob": "https://github.com/stablyai/orca/actions/runs/35178713175/job/105066129816",
+    "failedJob": "https://github.com/dungxoan31-creator/PeaceD_OPC/actions/runs/35178713175/job/105066129816",
     "cause": "One-line if in scenario.cjs lacked braces. Product-only local quality omitted durable proof sources; CI correctly rejected it.",
     "change": "Add braces; product code unchanged. Rerun both actual-source runtime reports and all five quality scan configurations over all six published code files with --no-ignore.",
     "result": "Both runtime proofs and all five quality scans pass. CI status remains separately recorded at the observed head."

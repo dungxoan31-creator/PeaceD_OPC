@@ -13,7 +13,7 @@ name: Hourly macOS Dev Build
 #     a ticket every hourly reads as a new client and silently loses file access
 #     under Documents/Desktop/Downloads — 24 times a day.
 #
-# Artifacts publish to stablyai/orca-hourly, never to stablyai/orca: the main
+# Artifacts publish to dungxoan31-creator/PeaceD_OPC-hourly, never to dungxoan31-creator/PeaceD_OPC: the main
 # repo's releases atom feed exposes only its 10 newest entries, so 24 hourly
 # tags a day would evict every stable/RC entry and break updates for real users.
 #
@@ -55,14 +55,14 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HOURLY_REPO: stablyai/orca-hourly
+  HOURLY_REPO: dungxoan31-creator/PeaceD_OPC-hourly
   # Keep ~3 days of history so a regression can be bisected across a weekend.
   HOURLY_RETAIN_COUNT: 72
 
 jobs:
   # Avoid occupying the limited Mac pool when main has not moved.
   preflight:
-    if: github.repository == 'stablyai/orca'
+    if: github.repository == 'dungxoan31-creator/PeaceD_OPC'
     runs-on: ubuntu-latest
     timeout-minutes: 5
     outputs:
@@ -75,7 +75,7 @@ jobs:
         with:
           app-id: ${{ secrets.HOURLY_RELEASE_APP_ID }}
           private-key: ${{ secrets.HOURLY_RELEASE_APP_PRIVATE_KEY }}
-          owner: stablyai
+          owner: dungxoan31-creator
           repositories: orca-hourly
           permission-contents: read
 
@@ -139,7 +139,7 @@ jobs:
           ref: ${{ needs.preflight.outputs.head_sha }}
           # Version helpers only read HEAD; published versions come from git tags.
           fetch-depth: 1
-          # Why: this job only reads stablyai/orca and never pushes; every write
+          # Why: this job only reads dungxoan31-creator/PeaceD_OPC and never pushes; every write
           # goes to the hourly repo through a minted App token passed by env.
           # Not persisting the checkout credential shrinks the blast radius if a
           # build step is compromised (zizmor: artipacked).
@@ -151,7 +151,7 @@ jobs:
         with:
           app-id: ${{ secrets.HOURLY_RELEASE_APP_ID }}
           private-key: ${{ secrets.HOURLY_RELEASE_APP_PRIVATE_KEY }}
-          owner: stablyai
+          owner: dungxoan31-creator
           repositories: orca-hourly
 
       - name: Setup pnpm
@@ -261,7 +261,7 @@ jobs:
           # Why: hourly builds are not an official channel — telemetry's transport
           # gate accepts only 'stable' or 'rc', so leaving this unset keeps them
           # silent, which is correct for unvetted dev artifacts.
-          ORCA_DIAGNOSTICS_TOKEN_URL: https://www.onorca.dev/diagnostics/token
+          ORCA_DIAGNOSTICS_TOKEN_URL: https://github.com/dungxoan31-creator/PeaceD_OPC/diagnostics/token
 
       # Why a second mint: everything from here on writes to the hourly repo, and
       # the notary round trip inside the publish step can be tens of minutes. The
@@ -274,7 +274,7 @@ jobs:
         with:
           app-id: ${{ secrets.HOURLY_RELEASE_APP_ID }}
           private-key: ${{ secrets.HOURLY_RELEASE_APP_PRIVATE_KEY }}
-          owner: stablyai
+          owner: dungxoan31-creator
           repositories: orca-hourly
 
       - name: Create hourly release
@@ -306,7 +306,7 @@ jobs:
             --draft \
             --notes "Automated hourly macOS and Windows dev build from commit \`$short_sha\`.
 
-          Built from [\`stablyai/orca@$short_sha\`](https://github.com/stablyai/orca/commit/$SHA).
+          Built from [\`dungxoan31-creator/PeaceD_OPC@$short_sha\`](https://github.com/dungxoan31-creator/PeaceD_OPC/commit/$SHA).
 
           **Unvetted.** No tests ran. The macOS build is signed and notarized like a
           release, so it installs through Orca's in-app updater and opens from a manual

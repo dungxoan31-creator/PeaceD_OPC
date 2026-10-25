@@ -29,7 +29,7 @@ edit plus a second set of Apple credentials.
 | Invoker           | IAM disabled                                           | `invoker_iam_disabled = true` on the service |
 | Runtime identity  | `orca-cloud-push@onorca-cloud.iam.gserviceaccount.com` | `google_service_account.push_runtime`        |
 | Database          | `orca_push` on dedicated HA PostgreSQL 17           | `google_sql_database.push_dedicated`                   |
-| Hostname          | `push.onorca.dev`                                      | `push_base_url`                              |
+| Hostname          | `push.github.com/dungxoan31-creator/PeaceD_OPC`                                      | `push_base_url`                              |
 
 The minimum of one instance is deliberate and did not move when the ceiling came down to two. A
 cold start delays a notification past the point where it is worth showing, so the floor is what
@@ -346,12 +346,12 @@ the first four characters of a fingerprint are the most that may appear.
 ## DNS: one hand-managed record
 
 The Cloud Run domain mapping is created here, and Google issues and renews the certificate. The
-`onorca.dev` zone is not in this root: it is a Cloudflare zone whose Terraform-managed records
+`github.com/dungxoan31-creator/PeaceD_OPC` zone is not in this root: it is a Cloudflare zone whose Terraform-managed records
 live in the apps root in `dungxoan31-creator/PeaceD_OPC-cloud`, and whose relay and auth records are managed by
 hand. The push record follows the relay's precedent and was created by hand on 2026-09-04:
 
 ```text
-push.onorca.dev.  CNAME  ghs.googlehosted.com.   (DNS only, not proxied)
+push.github.com/dungxoan31-creator/PeaceD_OPC.  CNAME  ghs.googlehosted.com.   (DNS only, not proxied)
 ```
 
 `terraform -chdir=infra/terraform output push_dns_record` prints the same three fields. If the

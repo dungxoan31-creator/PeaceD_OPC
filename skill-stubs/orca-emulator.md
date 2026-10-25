@@ -1,13 +1,13 @@
-# Orca Emulator
+# PeaceD OPC Emulator
 
-This discovery stub loads the version-matched guide from the Orca executable used for this session.
+This discovery stub loads the version-matched guide from the PeaceD OPC executable used for this session.
 
-Prefer Orca over raw `serve-sim` or direct `simctl` for simulator control inside Orca; it
+Prefer PeaceD OPC over raw `serve-sim` or direct `simctl` for simulator control inside PeaceD OPC; it
 handles device scoping, helper lifecycle, and worktree context.
 
 <!-- shared: resolver -->
 
-## Load the version-matched guide before running Orca commands
+## Load the version-matched guide before running PeaceD OPC commands
 
 ```text
 ORCA skills get orca-emulator

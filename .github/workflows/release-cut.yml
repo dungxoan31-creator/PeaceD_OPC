@@ -65,7 +65,7 @@ jobs:
     # Actions enabled, the scheduled cut would run against the fork's main and
     # diverge it (version line) every slot, conflicting every PR back upstream.
     # Gate to the canonical repo so the workflow no-ops on forks.
-    if: github.repository == 'stablyai/orca'
+    if: github.repository == 'dungxoan31-creator/PeaceD_OPC'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
@@ -1378,7 +1378,7 @@ jobs:
           # the macOS release runner, leaving v1.4.2-rc.8 as an incomplete draft.
           NODE_OPTIONS: --max-old-space-size=4096
           ORCA_BUILD_IDENTITY: ${{ steps.tag-classify.outputs.identity }}
-          ORCA_DIAGNOSTICS_TOKEN_URL: https://www.onorca.dev/diagnostics/token
+          ORCA_DIAGNOSTICS_TOKEN_URL: https://github.com/dungxoan31-creator/PeaceD_OPC/diagnostics/token
           ORCA_POSTHOG_WRITE_KEY: ${{ secrets.ORCA_POSTHOG_WRITE_KEY }}
           # Fail the release rather than ship a relay that silently falls back to
           # the PowerShell scan on every Windows SSH host.

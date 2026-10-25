@@ -20,7 +20,7 @@ name: Daily macOS Dev Build
 #     a ticket every daily reads as a new client and silently loses file access
 #     under Documents/Desktop/Downloads.
 #
-# Artifacts publish to stablyai/orca-daily, never to stablyai/orca: the main
+# Artifacts publish to dungxoan31-creator/PeaceD_OPC-daily, never to dungxoan31-creator/PeaceD_OPC: the main
 # repo's releases atom feed exposes only its 10 newest entries, so high-volume
 # dev tags would evict every stable/RC entry and break updates for real users.
 # Separate from orca-hourly so someone riding main's hourlies never sees the
@@ -65,13 +65,13 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  DAILY_REPO: stablyai/orca-daily
+  DAILY_REPO: dungxoan31-creator/PeaceD_OPC-daily
   # Keep ~30 days so a regression can be bisected without holding a full year.
   DAILY_RETAIN_COUNT: 30
 
 jobs:
   build-daily-mac:
-    if: github.repository == 'stablyai/orca'
+    if: github.repository == 'dungxoan31-creator/PeaceD_OPC'
     outputs:
       tag: ${{ steps.release.outputs.tag }}
       version: ${{ steps.daily.outputs.version }}
@@ -92,7 +92,7 @@ jobs:
           ref: main
           # Version helpers only read HEAD; published versions come from git tags.
           fetch-depth: 1
-          # Why: this job only reads stablyai/orca and never pushes; every write
+          # Why: this job only reads dungxoan31-creator/PeaceD_OPC and never pushes; every write
           # goes to the daily repo through a minted App token passed by env.
           # Not persisting the checkout credential shrinks the blast radius if a
           # build step is compromised (zizmor: artipacked).
@@ -104,7 +104,7 @@ jobs:
         with:
           app-id: ${{ secrets.HOURLY_RELEASE_APP_ID }}
           private-key: ${{ secrets.HOURLY_RELEASE_APP_PRIVATE_KEY }}
-          owner: stablyai
+          owner: dungxoan31-creator
           repositories: orca-daily
 
       # Why: main is often idle. Rebuilding an unchanged commit burns a runner
@@ -255,7 +255,7 @@ jobs:
           # Why: daily builds are not an official channel — telemetry's transport
           # gate accepts only 'stable' or 'rc', so leaving this unset keeps them
           # silent, which is correct for unvetted dev artifacts.
-          ORCA_DIAGNOSTICS_TOKEN_URL: https://www.onorca.dev/diagnostics/token
+          ORCA_DIAGNOSTICS_TOKEN_URL: https://github.com/dungxoan31-creator/PeaceD_OPC/diagnostics/token
 
       # Why a second mint: everything from here on writes to the daily repo, and
       # the notary round trip inside the publish step can be tens of minutes. The
@@ -269,7 +269,7 @@ jobs:
         with:
           app-id: ${{ secrets.HOURLY_RELEASE_APP_ID }}
           private-key: ${{ secrets.HOURLY_RELEASE_APP_PRIVATE_KEY }}
-          owner: stablyai
+          owner: dungxoan31-creator
           repositories: orca-daily
 
       - name: Create daily release
@@ -293,7 +293,7 @@ jobs:
           cat >"$notes_file" <<EOF
           Automated daily macOS and Windows dev build from commit \`$short_sha\`.
 
-          Built from [\`stablyai/orca@$short_sha\`](https://github.com/stablyai/orca/commit/$SHA).
+          Built from [\`dungxoan31-creator/PeaceD_OPC@$short_sha\`](https://github.com/dungxoan31-creator/PeaceD_OPC/commit/$SHA).
 
           **Unvetted.** No tests ran. The macOS build is signed and notarized like a
           release, so it installs through Orca's in-app updater and opens from a manual
@@ -365,7 +365,7 @@ jobs:
         with:
           app-id: ${{ secrets.HOURLY_RELEASE_APP_ID }}
           private-key: ${{ secrets.HOURLY_RELEASE_APP_PRIVATE_KEY }}
-          owner: stablyai
+          owner: dungxoan31-creator
           repositories: orca-daily
 
       # Why: the updater resolves a tag, then fetches latest-mac.yml from it. A

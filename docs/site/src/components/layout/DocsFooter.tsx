@@ -19,7 +19,7 @@ export function DocsFooter() {
               >PeaceD OPC</span>
             </Link>
             <p className="text-muted-foreground max-w-sm text-sm">
-              The worktree IDE for AI coding agents. Free and open source.
+              The AI Agent Multi-Stream Orchestration & Governance Platform. Free and open source.
             </p>
           </div>
 
@@ -38,7 +38,7 @@ export function DocsFooter() {
               </li>
               <li>
                 <a
-                  href="https://www.onorca.dev"
+                  href="https://github.com/dungxoan31-creator/PeaceD_OPC"
                   className="rounded-md px-1 py-0.5 transition-colors hover:bg-accent hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring/50"
                 >
                   Home

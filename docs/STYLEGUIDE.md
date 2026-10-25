@@ -99,7 +99,7 @@ This keeps light/dark parity automatic.
 
 ## Elevation & shadows
 
-Orca uses shadows sparingly. Three levels in practice:
+PeaceD OPC uses shadows sparingly. Three levels in practice:
 
 1. **Inset hairline** — `border` + `border` token. The default. Almost everything sits at this level.
 2. **Subtle lift** — `shadow-xs` + a single-token border. Outline buttons, embedded cards.
@@ -238,7 +238,7 @@ These are the rules a contributor will most often get wrong if they're working i
 
 ### Screen UX review rubric
 
-Use this rubric when reviewing any Orca IDE screen, screenshot, or prototype. A good review should name the highest-impact friction first, then give concrete changes the implementer can make.
+Use this rubric when reviewing any PeaceD OPC IDE screen, screenshot, or prototype. A good review should name the highest-impact friction first, then give concrete changes the implementer can make.
 
 #### Review output format
 
@@ -298,12 +298,12 @@ When there's no sibling, match the surrounding chrome — button sizes, icon wei
 
 ## Cross-platform
 
-Orca runs on macOS, Linux, and Windows. Every UI change must hold up on all three, in both light and dark mode.
+PeaceD OPC runs on macOS, Linux, and Windows. Every UI change must hold up on all three, in both light and dark mode.
 
 - **Modifier keys:** Never hardcode `e.metaKey`. Use `navigator.userAgent.includes('Mac')` to choose `metaKey` on Mac and `ctrlKey` on Linux/Windows. Electron menu accelerators should use `CmdOrCtrl`.
 - **Shortcut labels:** Display `⌘` / `⇧` on Mac; display `Ctrl+` / `Shift+` on other platforms. The label must reflect the actual binding for that platform.
 - **Window chrome:** macOS shows traffic lights; the titlebar reserves an 80px gutter (`titlebar-traffic-light-pad`) so they don't overlap content. Don't put hit targets in that band on Mac.
-- **SSH:** Many users run Orca on a remote machine. Loading states, focus management, and animations must hold up under 50–200 ms of extra latency. Test under simulated latency (or actual SSH) — local-only verification isn't enough. See _UX rules → 1_.
+- **SSH:** Many users run PeaceD OPC on a remote machine. Loading states, focus management, and animations must hold up under 50–200 ms of extra latency. Test under simulated latency (or actual SSH) — local-only verification isn't enough. See _UX rules → 1_.
 
 ## When this guide is silent
 

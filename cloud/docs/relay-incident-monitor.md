@@ -105,7 +105,7 @@ artifact as audit trail, not as authority: each wave is authorized by its own co
 ## Local use
 
 The active `gcloud` identity must be a service account that can mint an ID token for the exact
-audience `https://relay.onorca.dev/v1/admin/drain`, and it needs read access to the monitored GCP
+audience `https://relay.github.com/dungxoan31-creator/PeaceD_OPC/v1/admin/drain`, and it needs read access to the monitored GCP
 resources. A user account normally needs Token Creator on an approved service account.
 
 For a short run, an already minted JWT may instead be supplied through
